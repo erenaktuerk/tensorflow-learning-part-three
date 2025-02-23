@@ -1,4 +1,4 @@
-# Computer Vision and Convolutional Neural Networks (CNNs) - Section 5
+# Computer Vision and Convolutional Neural Networks (CNNs)
 
 **Comprehensive Overview of Key Concepts, Implementations, and Advanced Techniques**  
 
